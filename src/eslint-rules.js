@@ -15,7 +15,7 @@ module.exports = {
               if (node.source && node.source.value === "moment") {
                 context.report({
                   node: node.source,
-                  message: "Importing 'moment' is not allowed.",
+                  message: "Importing 'moment' is not allowed...",
                 });
               }
             },
@@ -28,7 +28,7 @@ module.exports = {
               ) {
                 context.report({
                   node: node.arguments[0],
-                  message: "Requiring 'moment' is not allowed.",
+                  message: "Requiring 'moment' is not allowed...",
                 });
               }
             },
