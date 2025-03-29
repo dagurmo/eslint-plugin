@@ -1,6 +1,6 @@
 {
-  "name": "@dagurmo/eslint-plugin",
-  "version": "1.0.0",
+  "name": "@dagurmo/eslint-plugin-no-moment",
+  "version": "1.0.1",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
