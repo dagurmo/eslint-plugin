@@ -12,7 +12,10 @@
     "type": "git",
     "url": "git+https://github.com/dagurmo/eslint-plugin.git"
   },
-  "keywords": [],
+  "keywords": ["eslint", "eslintplugin", "moment"],
+  "peerDependencies": {
+    "eslint": "^8.0.0"
+  },
   "author": "",
   "license": "ISC",
   "type": "commonjs",
