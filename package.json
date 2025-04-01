@@ -1,8 +1,8 @@
 {
   "name": "@dagurmo/eslint-plugin-no-moment",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "access": "public"
   },
   "description": "",
   "main": "index.js",
